@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         // Load the initial URL
-        webView.loadUrl("https://mikebabu254.github.io/invod-tech-website/");
+        webView.loadUrl("https://eddmarwa.github.io/INVODTECH-website/");
     }
 
     // Handle back button press to navigate back in the WebView
